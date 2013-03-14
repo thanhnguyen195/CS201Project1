@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9218C29816F017C10001F525 /* saveResult.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = saveResult.dat; sourceTree = "<group>"; };
+		92DDABD616ED830200BCB176 /* ISort.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = ISort.java; sourceTree = "<group>"; };
+		92DDABD716EE3B0800BCB176 /* inputProducer.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = inputProducer.java; sourceTree = "<group>"; };
+		92DDABD816EE43A300BCB176 /* AverageInput.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = AverageInput.dat; sourceTree = "<group>"; };
+		92DDABD916EE472800BCB176 /* QSort.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = QSort.java; sourceTree = "<group>"; };
+		92DDABDA16EE8B0E00BCB176 /* AverageOutput.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = AverageOutput.dat; sourceTree = "<group>"; };
+		92DDABDB16EEAB0800BCB176 /* BestWorstInput.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = BestWorstInput.dat; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		92DDABCF16ED82E000BCB176 = {
+			isa = PBXGroup;
+			children = (
+				92DDABD616ED830200BCB176 /* ISort.java */,
+				92DDABD916EE472800BCB176 /* QSort.java */,
+				92DDABD716EE3B0800BCB176 /* inputProducer.java */,
+				92DDABDB16EEAB0800BCB176 /* BestWorstInput.dat */,
+				92DDABD816EE43A300BCB176 /* AverageInput.dat */,
+				92DDABDA16EE8B0E00BCB176 /* AverageOutput.dat */,
+				9218C29816F017C10001F525 /* saveResult.dat */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		92DDABD016ED82E000BCB176 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = 92DDABD316ED82E000BCB176 /* Build configuration list for PBXProject "CS201Project1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 92DDABCF16ED82E000BCB176;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		92DDABD416ED82E000BCB176 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		92DDABD516ED82E000BCB176 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		92DDABD316ED82E000BCB176 /* Build configuration list for PBXProject "CS201Project1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92DDABD416ED82E000BCB176 /* Debug */,
+				92DDABD516ED82E000BCB176 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 92DDABD016ED82E000BCB176 /* Project object */;
+}
